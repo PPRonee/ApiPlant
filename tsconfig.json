@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    /* Language and Environment */
+    "target": "es2016" /* Set the JavaScript 
+    /* Modules */,
+    "module": "commonjs" /* Specify what module 
+    /* Emit */,
+    "outDir": "./dist" /* Specify an output folder for all emitted files. */,
+    "esModuleInterop": true /* Emit additional 
+    /* Type Checking */,
+    "strict": true /* Enable all strict 
+    /* Completeness */,
+    "skipLibCheck": true
+  }
+}
